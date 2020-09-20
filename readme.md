@@ -1,6 +1,6 @@
 # Covid-bot
 
-A bot written in Go which sends updates regarding coronavirus situation in Kazakhstan.
+A telegram bot written in Go which sends updates regarding coronavirus situation in Kazakhstan.
 
 ## What can the bot do?
 
